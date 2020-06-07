@@ -1,0 +1,7 @@
+name: EasyChestshop
+description: Chestshops for LlamaEconomy
+api: 2.0.0
+version: 1.0.0
+main: net.lldv.easychestshop.EasyChestshop
+author: Proxma
+website: lldv.net
