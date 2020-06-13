@@ -1,0 +1,6 @@
+# Default max chestshops per player
+# set to -1 if you don't want a limit. (this also ignores the chestshop permissions)
+# You can allow certain players to have more chestshops with the permission
+# chestshops.max.COUNT
+# example: chestshops.max.32
+defaultLimit: 16

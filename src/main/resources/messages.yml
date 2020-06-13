@@ -1,0 +1,37 @@
+prefix: "§8» §aEasyChestShop §8| §7"
+
+
+# forms
+# create form
+c-title: "Create a Chestshop"
+# [0] = itename, [1] = enchantments, [2] = lores
+c-content: "Item: [0]§r\n§5Enchantments:§r [1]\n§eLores:§r [2]"
+# [0] = name, [1] = level
+c-enchantment: "[0] ([1])"
+c-no-enchantments: "No Enchantments"
+# [0] = name
+c-lore: "§r[0]§r"
+c-no-lores: "No Lore"
+c-type: "Do you want to sell or buy this item?"
+c-sell: "Sell"
+c-buy: "Buy"
+c-price: "Price"
+c-price-p: "29.99"
+c-amount: "Amount"
+c-amount-p: "16"
+
+
+# ChestShop item
+itemName: "§eChestShop Item §f[Place]"
+
+# ChestShop Format
+type-sell: "§aSELLS"
+type-buy: "§aBUYS"
+# [0] = Username
+line1: "§6[0]"
+# [0] = type
+line2: "[0]"
+# [0] = amount, [1] = price
+line3: "[0]x §e:§r $[1]"
+# [0] = item
+line4: "§f[0]"
